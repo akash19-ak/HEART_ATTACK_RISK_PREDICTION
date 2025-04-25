@@ -93,5 +93,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🔗 Links
 
-- GitHub: [https://github.com/yourusername/heart-attack-risk-prediction](https://github.com/yourusername/heart-attack-risk-prediction)
+- GitHub: [https://github.com/yourusername/heart-attack-risk-prediction][(https://github.com/yourusername/heart-attack-risk-prediction](https://github.com/akash19-ak/HEART_ATTACK_RISK_PREDICTION))
 - Demo (if any): [Link to deployed app/demo]
