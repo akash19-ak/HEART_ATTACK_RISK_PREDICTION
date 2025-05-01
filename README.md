@@ -30,8 +30,7 @@ The project uses a publicly available dataset for heart disease prediction, whic
 - And more...
 
 ### Dataset Source:
-(Provide the link to the dataset if available)
-
+](https://github.com/akash19-ak/HEART_ATTACK_RISK_PREDICTION/blob/main/heart.csv)
 ## 🧹 Project Workflow
 
 1. **Data Preprocessing**:
