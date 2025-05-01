@@ -17,6 +17,7 @@ This project uses machine learning techniques to predict the likelihood of a hea
 - **Environment**: Jupyter Notebook
 
 ## 📊 Dataset
+https://github.com/akash19-ak/HEART_ATTACK_RISK_PREDICTION/blob/main/heart.csv
 
 The project uses a publicly available dataset for heart disease prediction, which includes medical features such as:
 - Age
